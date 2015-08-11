@@ -4,8 +4,7 @@ import (
 	"testing"
 	"time"
 
-	//	"github.com/samuel/go-zookeeper/zk"
-	"github.com/samuel/go-zookeeper/zk"
+	"github.com/roylou/go-zookeeper/zk"
 	"reflect"
 )
 
